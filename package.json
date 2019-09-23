@@ -1,0 +1,33 @@
+{
+  "name": "topology-demo",
+  "version": "0.0.1",
+  "description": "ES6 + Babel: The demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "es5": "babel index.js -o es5.js"
+  },
+  "keywords": [
+    "es2018",
+    "webpack"
+  ],
+  "author": "alsmile123@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "5",
+    "topology-activity-diagram": "^0.0.3",
+    "topology-class-diagram": "^0.0.1",
+    "topology-core": "^0.0.2",
+    "topology-flow-diagram": "^0.0.1",
+    "topology-sequence-diagram": "^0.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "path": "^0.12.7",
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
