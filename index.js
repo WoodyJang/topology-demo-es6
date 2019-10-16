@@ -118,4 +118,4 @@ registerNode('sequenceFocus', sequenceFocus, sequenceFocusAnchors, sequenceFocus
 // end.
 
 var canvas = new Topology('topo-canvas', {});
-canvas.render(Data, true);
+canvas.open(Data);
