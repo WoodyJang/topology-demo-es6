@@ -17,7 +17,7 @@
     "babel-core": "5",
     "topology-activity-diagram": "^0.0.3",
     "topology-class-diagram": "^0.0.1",
-    "topology-core": "^0.0.2",
+    "topology-core": "^0.0.6",
     "topology-flow-diagram": "^0.0.1",
     "topology-sequence-diagram": "^0.0.3"
   },
