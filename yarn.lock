@@ -4134,6 +4134,11 @@ topology-core@^0.0.3:
   resolved "https://registry.yarnpkg.com/topology-core/-/topology-core-0.0.3.tgz#ee001ff3ee33d71ac8068e3a977c01dd10fbe8e7"
   integrity sha512-dNWCu8h+QzmKdE6U1MRQY6oeLwNlmYV014u9ihx5rpTPpgTdK5cznEGHAWG5NeD+h39n8kaGJ4exg4dzYanrZA==
 
+topology-core@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/topology-core/-/topology-core-0.0.6.tgz#16f2cfdae634e30b8b1d3fedae02d538106c9a69"
+  integrity sha512-R16TswH0mJ9/i5SDJq27HMbwHS+2blXuu6VU5Nl4opjBQMo2lLUFygzTyRmz0kRbHJqYAL4R3pS1UBcSTWLPvw==
+
 topology-flow-diagram@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/topology-flow-diagram/-/topology-flow-diagram-0.0.1.tgz#c169a7b643b3803330ebeb9381d721a85b409c4b"
