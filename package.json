@@ -15,11 +15,11 @@
   "license": "MIT",
   "dependencies": {
     "babel-core": "5",
-    "topology-activity-diagram": "^0.0.3",
+    "topology-activity-diagram": "^0.0.4",
     "topology-class-diagram": "^0.0.1",
-    "topology-core": "^0.0.6",
+    "topology-core": "^0.0.9",
     "topology-flow-diagram": "^0.0.1",
-    "topology-sequence-diagram": "^0.0.3"
+    "topology-sequence-diagram": "^0.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
